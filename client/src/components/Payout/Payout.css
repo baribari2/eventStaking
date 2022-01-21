@@ -1,0 +1,11 @@
+.payout-container{
+    max-width: 150px;
+    position: relative;
+    top: -200px;
+    left: 400px;
+}
+
+.payout-button{
+    background-color: red;
+}
+
